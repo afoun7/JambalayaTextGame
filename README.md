@@ -2,11 +2,13 @@
 Final project for CS111: Computer Programming and Problem Solving
 
 ---Description---
+
 Jamabalaya Text is a word game based on the computer game, TextTwist. 
 Users are given a set of letters and they must try to rearrange all the letters to make as many words as they can.
 This is a timed game.
 
 ---How to run the program---
+
 In order to run the program, make sure that the following four items are in your directory:
 (1)	Alphabet_soup.gif
 (2)	jambalaya.py
