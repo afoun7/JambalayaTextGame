@@ -17,10 +17,11 @@ In order to run the program, make sure that the following four items are in your
 
 You will need all of these files. Set your current directory to this folder. 
 
-Open jambalaya.py and at the end of the code, comment out the following lines of code:
+Open jambalaya.py and at the end of the code, make sure the following lines of code are there:
 
-#app = Beginning()
-#app.mainloop()
+app = Beginning()
+
+app.mainloop()
 
 You are now free to run the program!
 
