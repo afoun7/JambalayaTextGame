@@ -3,7 +3,7 @@ Final project for CS111: Computer Programming and Problem Solving
 
 ---Description---
 
-Jamabalaya Text is a word game based on the computer game, TextTwist. 
+Jamabalaya Text is a word game, written in Python, based on the computer game, TextTwist. 
 Users are given a set of letters and they must try to rearrange all the letters to make as many words as they can.
 This is a timed game.
 
